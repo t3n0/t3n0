@@ -1,4 +1,4 @@
-![logo](t3n0_logo.pdf)
+![logo](t3n0_logo.jpeg)
 
 # Hi there!
 
