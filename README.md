@@ -1,4 +1,4 @@
-[pollo](pollo.jpeg)
+![pollo](pollo.jpeg)
 
 # Hi there!
 
