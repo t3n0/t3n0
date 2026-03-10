@@ -1,3 +1,5 @@
+![logo](t3n0_logo.pdf)
+
 # Hi there!
 
 I'm Stefano, I study physics and like coding.
