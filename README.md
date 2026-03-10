@@ -1,4 +1,4 @@
-![logo](pollo.jpeg)
+![logo](t3n0_logo.pdf)
 
 # Hi there!
 
