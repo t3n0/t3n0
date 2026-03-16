@@ -21,11 +21,11 @@ Page under contruction. The followings are just place holders
 <!-- Prima riga (2 immagini) -->
 <div align="center">
   <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
-    <a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a><br/>
+    <a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 40%; height: auto;" /></a><br/>
     <sub>caption caption caption caption caption caption caption caption caption caption caption caption caption caption caption </sub>
   </div>
   <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
-    <a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a><br/>
+    <a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 40%; height: auto;" /></a><br/>
     <sub>caption caption caption caption caption </sub>
   </div>
 </div>
@@ -33,18 +33,18 @@ Page under contruction. The followings are just place holders
 <!-- Seconda riga (2 immagini) -->
 <div align="center">
   <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
-    <a href="LINK_GRANDE_3"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a><br/>
+    <a href="LINK_GRANDE_3"><img src="/assets/thumb_cntt.svg" style="width: 40%; height: auto;" /></a><br/>
     <sub>caption caption caption caption caption caption caption </sub>
   </div>
   <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
-    <a href="LINK_GRANDE_4"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a><br/>
+    <a href="LINK_GRANDE_4"><img src="/assets/thumb_cntt.svg" style="width: 40%; height: auto;" /></a><br/>
     <sub>caption caption caption caption caption caption</sub>
   </div>
 </div>
 
-another attempt:
+<!-- another attempt: -->
 
-<div align="center" style="display: block; width: 100%;">
+<!-- <div align="center" style="display: block; width: 100%;">
 <div style="display: inline-block; vertical-align: bottom; width: 40; min-width: 150px; margin: 5px; word-wrap: break-word;">
 <a href="LINK_1"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
 <sub>Didascalia 1</sub>
@@ -62,7 +62,7 @@ another attempt:
 <a href="LINK_4"><img src="/assets/thumb_cntt.svg" style="width: 90%;" /></a><br/>
 <sub>Didascalia 4</sub>
 </div>
-</div>
+</div> -->
 
 
 
