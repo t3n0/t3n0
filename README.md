@@ -20,26 +20,11 @@ Page under contruction. The followings are just place holders
 
 <!-- Prima riga (2 immagini) -->
 <div align="center">
-  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
-    <a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/>
-    <sub>caption caption caption caption caption caption caption caption caption caption caption caption caption caption caption </sub>
-  </div>
-  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
-    <a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/>
-    <sub>caption caption caption caption caption </sub>
-  </div>
+  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption caption caption caption caption caption caption caption caption caption caption </sub></div><div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption </sub></div>
 </div>
 
 <!-- Seconda riga (2 immagini) -->
-<div align="center">
-  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
-    <a href="LINK_GRANDE_3"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/>
-    <sub>caption caption caption caption caption caption caption </sub>
-  </div>
-  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
-    <a href="LINK_GRANDE_4"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/>
-    <sub>caption caption caption caption caption caption</sub>
-  </div>
+<div align="center"><div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_3"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption caption caption </sub></div><div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_4"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption caption</sub></div>
 </div>
 
 <!-- another attempt: -->
