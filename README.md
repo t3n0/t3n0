@@ -25,27 +25,30 @@ Page under contruction. The followings are just place holders
 <div align="center"><div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_3"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption caption caption </sub></div><div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_4"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption caption</sub></div>
 </div>
 
-<!-- another attempt: -->
 
-<!-- <div align="center" style="display: block; width: 100%;">
-<div style="display: inline-block; vertical-align: bottom; width: 40; min-width: 150px; margin: 5px; word-wrap: break-word;">
-<a href="LINK_1"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
-<sub>Didascalia 1</sub>
-</div>
-<div style="display: inline-block; vertical-align: bottom; width: 40; min-width: 150px; margin: 5px; word-wrap: break-word;">
-<a href="LINK_2"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
-<sub>Didascalia 2</sub>
-</div>
-<br/><br/>
-<div style="display: inline-block; vertical-align: bottom; width: 30%; min-width: 150px; margin: 5px; word-wrap: break-word;">
-<a href="LINK_3"><img src="/assets/thumb_cntt.svg" style="width: 90%;" /></a><br/>
-<sub>Didascalia 3</sub>
-</div>
-<div style="display: inline-block; vertical-align: bottom; width: 30%; min-width: 150px; margin: 5px; word-wrap: break-word;">
-<a href="LINK_4"><img src="/assets/thumb_cntt.svg" style="width: 90%;" /></a><br/>
-<sub>Didascalia 4</sub>
-</div>
-</div> -->
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none;">
+    <td align="center" valign="bottom" style="border: none; width: 50%; padding: 10px;">
+      <a href="LINK_1"><img src="IMG_1" width="300" style="max-width:100%;"></a><br>
+      <sub>Didascalia 1</sub>
+    </td>
+    <td align="center" valign="bottom" style="border: none; width: 50%; padding: 10px;">
+      <a href="LINK_2"><img src="IMG_2" width="300" style="max-width:100%;"></a><br>
+      <sub>Didascalia 2</sub>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" valign="bottom" style="border: none; width: 50%; padding: 10px;">
+      <a href="LINK_3"><img src="IMG_3" width="300" style="max-width:100%;"></a><br>
+      <sub>Didascalia 3</sub>
+    </td>
+    <td align="center" valign="bottom" style="border: none; width: 50%; padding: 10px;">
+      <a href="LINK_4"><img src="IMG_4" width="300" style="max-width:100%;"></a><br>
+      <sub>Didascalia 4</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 
