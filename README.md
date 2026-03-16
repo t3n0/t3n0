@@ -18,6 +18,7 @@ This page is currently under development, but very soon it will be all set up an
 
 Page under contruction. The followings are just place holders
 
+ * &nbsp;
 
 <!-- * [![cntt](/assets/thumb_cntt.svg)](https://github.com/t3n0/cntt) I'm Stefano, I study physics and like coding. I obtained my PhD in physics from Imperial College and I am currently a research fellow at NTU, Singapore. This page is currently under development, but very soon it will be all set up and running.
 * <img src="/assets/thumb_cntt.svg" width="50%" alt="Descrizione">  -->
@@ -32,6 +33,17 @@ Page under contruction. The followings are just place holders
     <td width="50%"><a href="pollo.com"><img width="100%" src="/assets/thumb_cntt.svg"></a><br><sup><strong>pollo:</strong> pollo</sup></td>
   </tr>
 </table>
+
+<br>
+
+<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
+<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
+<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
+<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
+<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
+<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
+
+<br>
 
 <!-- | [![Progetto 1](https://raw.githubusercontent.com/t3n0/cntt/main/docs/figures/logo-small.png)](https://github.com/t3n0/cntt) | [![Progetto 2](https://raw.githubusercontent.com/t3n0/transfer-matrix-method/master/output_sample/setup2/setup2.png)](https://github.com/t3n0/transfer-matrix-method) | 
 | :---: | :---: | 
