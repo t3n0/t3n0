@@ -12,7 +12,7 @@ I obtained my PhD in physics from Imperial College and I am currently a research
 
 | [![Progetto 1](/assets/pollo2.jpeg)](https://github.com) | [![Progetto 2](/assets/pollo1.jpeg)](https://github.com) | 
 | :---: | :---: | 
-| *description 1* | | *description 2* | 
+| *description 1* | *description 2* | 
 
 | [![Progetto 1](/assets/pollo3.jpeg)](https://github.com) | [![Progetto 2](/assets/pollo1.jpeg)](https://github.com) | [![Progetto 2](/assets/pollo2.jpeg)](https://github.com) | 
 | :---: | :---: | :---: | 
