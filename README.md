@@ -21,12 +21,12 @@ Page under contruction. The followings are just place holders
 <!-- Prima riga (2 immagini) -->
 <div align="center">
 <div style="display: inline-block; vertical-align: top; width: 15%; max-width: 300px; margin: 10px; word-wrap: break-word;">
-<a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a>
+<a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a>
 <br/>
 <sub>caption caption caption caption caption caption caption caption caption caption caption caption caption caption caption </sub>
 </div>
 <div style="display: inline-block; vertical-align: top; width: 15%; max-width: 300px; margin: 10px; word-wrap: break-word;">
-<a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a>
+<a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a>
 <br/>
 <sub>caption caption caption caption caption </sub>
 </div>
