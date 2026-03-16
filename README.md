@@ -18,13 +18,28 @@ This page is currently under development, but very soon it will be all set up an
 
 Page under contruction. The followings are just place holders
 
-| [![Progetto 1](https://raw.githubusercontent.com/t3n0/cntt/main/docs/figures/logo-small.png)](https://github.com/t3n0/cntt) | [![Progetto 2](https://raw.githubusercontent.com/t3n0/transfer-matrix-method/master/output_sample/setup2/setup2.png)](https://github.com/t3n0/transfer-matrix-method) | 
+
+<!-- * [![cntt](/assets/thumb_cntt.svg)](https://github.com/t3n0/cntt) I'm Stefano, I study physics and like coding. I obtained my PhD in physics from Imperial College and I am currently a research fellow at NTU, Singapore. This page is currently under development, but very soon it will be all set up and running.
+* <img src="/assets/thumb_cntt.svg" width="50%" alt="Descrizione">  -->
+
+<table>
+  <tr>
+    <td width="50%"><a href="pollo.com"><img width="100%" src="/assets/thumb_cntt.svg"></a><br><sup><strong>pollo:</strong> pollo </sup>
+    <td width="50%"><a href="pollo.com"><img width="100%" src="/assets/thumb_cntt.svg"></a><br><sup><strong>pollo:</strong> pollo</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="pollo.com"><img width="100%" src="/assets/thumb_cntt.svg"></a><br><sup><strong>pollo:</strong> pollo</sup>
+    <td width="50%"><a href="pollo.com"><img width="100%" src="/assets/thumb_cntt.svg"></a><br><sup><strong>pollo:</strong> pollo</sup></td>
+  </tr>
+</table>
+
+<!-- | [![Progetto 1](https://raw.githubusercontent.com/t3n0/cntt/main/docs/figures/logo-small.png)](https://github.com/t3n0/cntt) | [![Progetto 2](https://raw.githubusercontent.com/t3n0/transfer-matrix-method/master/output_sample/setup2/setup2.png)](https://github.com/t3n0/transfer-matrix-method) | 
 | :---: | :---: | 
 | *description 1* | *description 2* | 
 
 | [![Progetto 1](https://raw.githubusercontent.com/t3n0/ndplot/refs/heads/main/showcase.gif)](https://github.com/t3n0/ndplot) | [![Progetto 2](https://raw.githubusercontent.com/t3n0/ballistic-transport/master/example/images/it1.png)](https://github.com/t3n0/ballistic-transport) | [![Progetto 2](https://raw.githubusercontent.com/t3n0/notes/main/notes/other/math.png)](https://github.com/t3n0/notes) | 
 | :---: | :---: | :---: | 
-| *description 3* | *desription 4* | *description 4*  |
+| *description 3* | *desription 4* | *description 4*  | -->
 
 
 ## 📚 Complete archive
