@@ -1,5 +1,10 @@
 ![logo](/assets/thumb_cover.jpg)
 
+
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DHXwa6_sAAAAJ)](https://scholar.google.com/citations?user=HXwa6_sAAAAJ)
+[![](https://img.shields.io/github/stars/t3n0)](https://github.com/t3n0?tab=repositories)
+
+
 # Hi there!
 
 I'm Stefano, I study physics and like coding.
