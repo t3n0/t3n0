@@ -6,7 +6,7 @@ I'm Stefano, I study physics and like coding.
 
 I obtained my PhD in physics from Imperial College and I am currently a research fellow at NTU, Singapore.
 
-This page is currently under development, but very soon I will be all set up and running.
+This page is currently under development, but very soon it will be all set up and running.
 
 
 ## 🌟 Most valuable repos
@@ -26,3 +26,10 @@ Page under contruction. The followings are just place holders
 
 Notes, scripts and lectures in my [**content hub**](https://github.com).
 
+## ☕ Support my job
+
+If you find my work useful, please consider a little donation:
+
+[![PayPal](https://shields.io)](https://paypal.me/tentacolo)
+
+[![BuyMeACoffee](https://pollo.it)](https://www.buymeacoffee.com/tentacolo)
