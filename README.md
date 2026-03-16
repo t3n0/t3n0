@@ -19,35 +19,22 @@ This page is currently under development, but very soon it will be all set up an
 Page under contruction. The followings are just place holders
 
 <!-- Prima riga (2 immagini) -->
-<div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption caption caption caption caption caption caption caption caption caption caption </sub></div><div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption </sub></div>
-
-<!-- Seconda riga (2 immagini) -->
-<div align="center"><div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_3"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption caption caption </sub></div><div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_4"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption caption</sub></div>
+<div align="center">
+<div style="display: inline-block; vertical-align: top; width: 15%; max-width: 300px; margin: 10px; word-wrap: break-word;">
+<a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a>
+<br/>
+<sub>caption caption caption caption caption caption caption caption caption caption caption caption caption caption caption </sub>
+</div>
+<div style="display: inline-block; vertical-align: top; width: 15%; max-width: 300px; margin: 10px; word-wrap: break-word;">
+<a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a>
+<br/>
+<sub>caption caption caption caption caption </sub>
+</div>
 </div>
 
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr style="border: none;">
-    <td align="center" valign="bottom" style="border: none; width: 50%; padding: 10px;">
-      <a href="LINK_1"><img src="IMG_1" width="300" style="max-width:100%;"></a><br>
-      <sub>Didascalia 1</sub>
-    </td>
-    <td align="center" valign="bottom" style="border: none; width: 50%; padding: 10px;">
-      <a href="LINK_2"><img src="IMG_2" width="300" style="max-width:100%;"></a><br>
-      <sub>Didascalia 2</sub>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" valign="bottom" style="border: none; width: 50%; padding: 10px;">
-      <a href="LINK_3"><img src="IMG_3" width="300" style="max-width:100%;"></a><br>
-      <sub>Didascalia 3</sub>
-    </td>
-    <td align="center" valign="bottom" style="border: none; width: 50%; padding: 10px;">
-      <a href="LINK_4"><img src="IMG_4" width="300" style="max-width:100%;"></a><br>
-      <sub>Didascalia 4</sub>
-    </td>
-  </tr>
-</table>
+<!-- Seconda riga (2 immagini) -->
+<!-- <div align="center"><div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_3"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption caption caption </sub></div><div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;"><a href="LINK_GRANDE_4"><img src="/assets/thumb_cntt.svg" style="width: 30%; height: auto;" /></a><br/><sub>caption caption caption caption caption caption</sub></div>
+</div> -->
 
 
 
