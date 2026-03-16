@@ -35,7 +35,7 @@ Notes, scripts and lectures in my [**content hub**](https://github.com).
 If you find my work useful, please consider a little donation.
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/tentacolo" target="_blank"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/buymeacoffee.svg" style="height: 40;" /></a>
-<a href="https://paypal.me/tentacolo" target="_blank"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/paypal.svg" style="height: 40;" /></a>
+<a href="https://www.buymeacoffee.com/tentacolo" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/buymeacoffee.svg" style="height: 40;" /></a>
+<a href="https://paypal.me/tentacolo" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/paypal.svg" style="height: 40;" /></a>
 </div>
 
