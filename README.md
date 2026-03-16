@@ -42,6 +42,34 @@ Page under contruction. The followings are just place holders
   </div>
 </div>
 
+another attempt:
+
+<div align="center" style="display: block; width: 100%;">
+  <!-- RIGA 1 -->
+  <div style="display: inline-block; vertical-align: bottom; width: 40%; min-width: 150px; margin: 5px; word-wrap: break-word;">
+    <a href="LINK_1"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
+    <sub>Didascalia 1</sub>
+  </div><!--
+--><div style="display: inline-block; vertical-align: bottom; width: 40%; min-width: 150px; margin: 5px; word-wrap: break-word;">
+    <a href="LINK_2"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
+    <sub>Didascalia 2</sub>
+  </div>
+
+  <br/><br/>
+
+  <!-- RIGA 2 -->
+  <div style="display: inline-block; vertical-align: bottom; width: 40%; min-width: 150px; margin: 5px; word-wrap: break-word;">
+    <a href="LINK_3"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
+    <sub>Didascalia 3</sub>
+  </div><!--
+--><div style="display: inline-block; vertical-align: bottom; width: 40%; min-width: 150px; margin: 5px; word-wrap: break-word;">
+    <a href="LINK_4"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
+    <sub>Didascalia 4</sub>
+  </div>
+</div>
+
+
+
 ## 📚 Complete archive
 
 Notes, scripts and lectures in my [**content hub**](https://github.com).
