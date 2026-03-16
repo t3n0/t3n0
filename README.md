@@ -34,6 +34,3 @@ If you find my work useful, please consider a little donation:
 
 [![BuyMeACoffee](https://raw.githubusercontent.com/t3n0/t3n0/main/assets/buymeacoffee.svg)](https://www.buymeacoffee.com/tentacolo)
 
-[![PayPal](/assets/paypal.png)](https://paypal.me/tentacolo)
-
-[![BuyMeACoffee](/assets/buymeacoffee.png)](https://www.buymeacoffee.com/tentacolo)
