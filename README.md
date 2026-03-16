@@ -46,11 +46,11 @@ another attempt:
 
 <div align="center" style="display: block; width: 100%;">
   <!-- RIGA 1 -->
-  <div style="display: inline-block; vertical-align: bottom; width: 40%; min-width: 150px; margin: 5px; word-wrap: break-word;">
+  <div style="display: inline-block; vertical-align: bottom; width: 40; min-width: 150px; margin: 5px; word-wrap: break-word;">
     <a href="LINK_1"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
     <sub>Didascalia 1</sub>
   </div><!--
---><div style="display: inline-block; vertical-align: bottom; width: 40%; min-width: 150px; margin: 5px; word-wrap: break-word;">
+--><div style="display: inline-block; vertical-align: bottom; width: 40; min-width: 150px; margin: 5px; word-wrap: break-word;">
     <a href="LINK_2"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
     <sub>Didascalia 2</sub>
   </div>
