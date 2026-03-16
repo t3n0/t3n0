@@ -22,25 +22,12 @@ Page under contruction. The followings are just place holders
 <div align="center">
 <div style="display: inline-block; vertical-align: top; width: 15%; max-width: 300px; margin: 10px; word-wrap: break-word;">
 <a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a>
-<br/>
-<sub>caption caption caption caption caption caption caption caption caption caption caption caption caption caption caption </sub>
 </div>
 <div style="display: inline-block; vertical-align: top; width: 15%; max-width: 300px; margin: 10px; word-wrap: break-word;">
 <a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a>
-<br/>
-<sub>caption caption caption caption caption </sub>
 </div>
 </div>
 
-<div align="center">
-  <!-- RIGA 1 -->
-  <span style="display: inline-block; vertical-align: bottom; width: 45%; max-width: 300px; margin: 5px; word-wrap: break-word;"><a href="LINK_1"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/><sub>Didascalia 1</sub></span><span style="display: inline-block; vertical-align: bottom; width: 45%; max-width: 300px; margin: 5px; word-wrap: break-word;"><a href="LINK_2"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/><sub>Didascalia 2</sub></span>
-
-  <br/><br/>
-
-  <!-- RIGA 2 -->
-  <span style="display: inline-block; vertical-align: bottom; width: 45%; max-width: 300px; margin: 5px; word-wrap: break-word;"><a href="LINK_3"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/><sub>Didascalia 3</sub></span><span style="display: inline-block; vertical-align: bottom; width: 45%; max-width: 300px; margin: 5px; word-wrap: break-word;"><a href="LINK_4"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/><sub>Didascalia 4</sub></span>
-</div>
 
 
 <!-- Seconda riga (2 immagini) -->
