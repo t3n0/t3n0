@@ -45,27 +45,23 @@ Page under contruction. The followings are just place holders
 another attempt:
 
 <div align="center" style="display: block; width: 100%;">
-  <!-- RIGA 1 -->
-  <div style="display: inline-block; vertical-align: bottom; width: 40; min-width: 150px; margin: 5px; word-wrap: break-word;">
-    <a href="LINK_1"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
-    <sub>Didascalia 1</sub>
-  </div><!--
---><div style="display: inline-block; vertical-align: bottom; width: 40; min-width: 150px; margin: 5px; word-wrap: break-word;">
-    <a href="LINK_2"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
-    <sub>Didascalia 2</sub>
-  </div>
-
-  <br/><br/>
-
-  <!-- RIGA 2 -->
-  <div style="display: inline-block; vertical-align: bottom; width: 40%; min-width: 150px; margin: 5px; word-wrap: break-word;">
-    <a href="LINK_3"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
-    <sub>Didascalia 3</sub>
-  </div><!--
---><div style="display: inline-block; vertical-align: bottom; width: 40%; min-width: 150px; margin: 5px; word-wrap: break-word;">
-    <a href="LINK_4"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
-    <sub>Didascalia 4</sub>
-  </div>
+<div style="display: inline-block; vertical-align: bottom; width: 40; min-width: 150px; margin: 5px; word-wrap: break-word;">
+<a href="LINK_1"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
+<sub>Didascalia 1</sub>
+</div>
+<div style="display: inline-block; vertical-align: bottom; width: 40; min-width: 150px; margin: 5px; word-wrap: break-word;">
+<a href="LINK_2"><img src="/assets/thumb_cntt.svg" style="width: 100%;" /></a><br/>
+<sub>Didascalia 2</sub>
+</div>
+<br/><br/>
+<div style="display: inline-block; vertical-align: bottom; width: 30%; min-width: 150px; margin: 5px; word-wrap: break-word;">
+<a href="LINK_3"><img src="/assets/thumb_cntt.svg" style="width: 90%;" /></a><br/>
+<sub>Didascalia 3</sub>
+</div>
+<div style="display: inline-block; vertical-align: bottom; width: 30%; min-width: 150px; margin: 5px; word-wrap: break-word;">
+<a href="LINK_4"><img src="/assets/thumb_cntt.svg" style="width: 90%;" /></a><br/>
+<sub>Didascalia 4</sub>
+</div>
 </div>
 
 
@@ -76,18 +72,13 @@ Notes, scripts and lectures in my [**content hub**](https://github.com).
 
 ## ☕ Support my job
 
-If you find my work useful, please consider a little donation:
+If you find my work useful, please consider a little donation.
 
 <div align="center">
   <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
-    <a href="https://paypal.me/tentacolo"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/paypal.svg" /></a><br/>
-  </div>
-  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
     <a href="https://www.buymeacoffee.com/tentacolo"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/buymeacoffee.svg"/></a><br/>
   </div>
+  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
+    <a href="https://paypal.me/tentacolo"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/paypal.svg" /></a><br/>
+  </div>
 </div>
-
-[![PayPal](https://raw.githubusercontent.com/t3n0/t3n0/main/assets/paypal.svg)](https://paypal.me/tentacolo)
-
-[![BuyMeACoffee](https://raw.githubusercontent.com/t3n0/t3n0/main/assets/buymeacoffee.svg)](https://www.buymeacoffee.com/tentacolo)
-
