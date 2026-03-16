@@ -6,9 +6,9 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="133.77528"
-   height="41.121048"
-   viewBox="0 0 133.77528 41.121048"
+   width="130.12828"
+   height="40"
+   viewBox="0 0 130.12828 40"
    enable-background="new 0 0 124 33"
    xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
 
 <g
    id="g11"
-   transform="translate(7.4924857,-51.937752)"><rect
+   transform="matrix(0.97273786,0,0,0.97273786,7.2882241,-50.521818)"><rect
      style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.51181;stroke-linecap:round"
      id="rect10"
      width="132.26347"

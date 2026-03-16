@@ -30,6 +30,6 @@ Notes, scripts and lectures in my [**content hub**](https://github.com).
 
 If you find my work useful, please consider a little donation:
 
-[![PayPal](https://shields.io)](https://paypal.me/tentacolo)
+[![PayPal](https://raw.githubusercontent.com/t3n0/t3n0/main/assets/paypal.svg)](https://paypal.me/tentacolo)
 
-[![BuyMeACoffee](https://pollo.it)](https://www.buymeacoffee.com/tentacolo)
+[![BuyMeACoffee](https://raw.githubusercontent.com/t3n0/t3n0/main/assets/buymeacoffee.svg)](https://www.buymeacoffee.com/tentacolo)
