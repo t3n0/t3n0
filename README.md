@@ -18,41 +18,29 @@ This page is currently under development, but very soon it will be all set up an
 
 Page under contruction. The followings are just place holders
 
- * &nbsp;
+<!-- Prima riga (2 immagini) -->
+<div align="center">
+  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
+    <a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a><br/>
+    <sub>caption caption caption caption caption caption caption caption caption caption caption caption caption caption caption </sub>
+  </div>
+  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
+    <a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a><br/>
+    <sub>caption caption caption caption caption </sub>
+  </div>
+</div>
 
-<!-- * [![cntt](/assets/thumb_cntt.svg)](https://github.com/t3n0/cntt) I'm Stefano, I study physics and like coding. I obtained my PhD in physics from Imperial College and I am currently a research fellow at NTU, Singapore. This page is currently under development, but very soon it will be all set up and running.
-* <img src="/assets/thumb_cntt.svg" width="50%" alt="Descrizione">  -->
-
-<table>
-  <tr>
-    <td width="50%"><a href="pollo.com"><img width="100%" src="/assets/thumb_cntt.svg"></a><br><sup><strong>pollo:</strong> pollo </sup>
-    <td width="50%"><a href="pollo.com"><img width="100%" src="/assets/thumb_cntt.svg"></a><br><sup><strong>pollo:</strong> pollo</sup></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="pollo.com"><img width="100%" src="/assets/thumb_cntt.svg"></a><br><sup><strong>pollo:</strong> pollo</sup>
-    <td width="50%"><a href="pollo.com"><img width="100%" src="/assets/thumb_cntt.svg"></a><br><sup><strong>pollo:</strong> pollo</sup></td>
-  </tr>
-</table>
-
-<br>
-
-<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
-<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
-<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
-<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
-<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
-<a href="pollo.com" target="_blank"> <img alt="pollo" src="/assets/thumb_cntt.svg" height="68" align="left"> </a>
-
-<br>
-
-<!-- | [![Progetto 1](https://raw.githubusercontent.com/t3n0/cntt/main/docs/figures/logo-small.png)](https://github.com/t3n0/cntt) | [![Progetto 2](https://raw.githubusercontent.com/t3n0/transfer-matrix-method/master/output_sample/setup2/setup2.png)](https://github.com/t3n0/transfer-matrix-method) | 
-| :---: | :---: | 
-| *description 1* | *description 2* | 
-
-| [![Progetto 1](https://raw.githubusercontent.com/t3n0/ndplot/refs/heads/main/showcase.gif)](https://github.com/t3n0/ndplot) | [![Progetto 2](https://raw.githubusercontent.com/t3n0/ballistic-transport/master/example/images/it1.png)](https://github.com/t3n0/ballistic-transport) | [![Progetto 2](https://raw.githubusercontent.com/t3n0/notes/main/notes/other/math.png)](https://github.com/t3n0/notes) | 
-| :---: | :---: | :---: | 
-| *description 3* | *desription 4* | *description 4*  | -->
-
+<!-- Seconda riga (2 immagini) -->
+<div align="center">
+  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
+    <a href="LINK_GRANDE_3"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a><br/>
+    <sub>caption caption caption caption caption caption caption </sub>
+  </div>
+  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
+    <a href="LINK_GRANDE_4"><img src="/assets/thumb_cntt.svg" style="width: 100%; height: auto;" /></a><br/>
+    <sub>caption caption caption caption caption caption</sub>
+  </div>
+</div>
 
 ## 📚 Complete archive
 
@@ -61,6 +49,15 @@ Notes, scripts and lectures in my [**content hub**](https://github.com).
 ## ☕ Support my job
 
 If you find my work useful, please consider a little donation:
+
+<div align="center">
+  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
+    <a href="https://paypal.me/tentacolo"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/paypal.svg" /></a><br/>
+  </div>
+  <div style="display: inline-block; vertical-align: top; width: 45%; max-width: 300px; margin: 10px; word-wrap: break-word;">
+    <a href="https://www.buymeacoffee.com/tentacolo"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/buymeacoffee.svg"/></a><br/>
+  </div>
+</div>
 
 [![PayPal](https://raw.githubusercontent.com/t3n0/t3n0/main/assets/paypal.svg)](https://paypal.me/tentacolo)
 
