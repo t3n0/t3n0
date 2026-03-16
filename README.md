@@ -17,12 +17,12 @@ This page is currently under development, but very soon it will be all set up an
 Page under contruction. The followings are just place holders
 
 <div align="center">
-<a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 40%;" /></a>
-<a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 40%;" /></a>
+<a href="pollo"><img src="/assets/thumb_cntt.svg" style="width: 40%;" /></a>
+<a href="pollo"><img src="/assets/thumb_cntt.svg" style="width: 40%;" /></a>
 <br>
-<a href="LINK_GRANDE_1"><img src="/assets/thumb_cntt.svg" style="width: 30%;" /></a>
-<a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 30%;" /></a>
-<a href="LINK_GRANDE_2"><img src="/assets/thumb_cntt.svg" style="width: 20%;" /></a>
+<a href="pollo"><img src="/assets/thumb_cntt.svg" style="width: 30%;" /></a>
+<a href="pollo"><img src="/assets/thumb_cntt.svg" style="width: 30%;" /></a>
+<a href="pollo"><img src="/assets/thumb_cntt.svg" style="width: 20%;" /></a>
 </div>
 
 
@@ -35,7 +35,7 @@ Notes, scripts and lectures in my [**content hub**](https://github.com).
 If you find my work useful, please consider a little donation.
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/tentacolo" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/buymeacoffee.svg" style="height: 40;" /></a>
-<a href="https://paypal.me/tentacolo" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/paypal.svg" style="height: 40;" /></a>
+<a href="https://www.buymeacoffee.com/tentacolo"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/buymeacoffee.svg" style="height: 40;" /></a>
+<a href="https://paypal.me/tentacolo"><img src="https://raw.githubusercontent.com/t3n0/t3n0/main/assets/paypal.svg" style="height: 40;" /></a>
 </div>
 
