@@ -24,9 +24,9 @@ Page under contruction. The followings are just place holders
 </div>
 
 
-## 🗄️ Complete archive
+## 🗄️ More contents
 
-Find all notes, scripts, lectures, data and more in my [**contents hub**](https://github.com/t3n0/contents-hub).
+Find all notes, softwares, lectures, data and more in my [**contents hub**](https://github.com/t3n0/contents-hub).
 
 ## ☕ Support my job
 
