@@ -6,9 +6,7 @@
 # Welcome!
 
 I'm Stefano, I study physics and like coding.
-
 I obtained my PhD in physics from Imperial College and I am currently a research fellow at NTU, Singapore.
-
 This page is currently under development, but very soon it will be all set up and running.
 
 
@@ -28,7 +26,7 @@ Page under contruction. The followings are just place holders
 
 ## 📚 Complete archive
 
-Notes, scripts and lectures in my [**content hub**](https://github.com).
+Notes, scripts and lectures in my [**contents hub**](https://github.com/t3n0/contents-hub).
 
 ## ☕ Support my job
 
