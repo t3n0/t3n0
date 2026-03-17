@@ -1,4 +1,4 @@
-![logo](/assets/thumb_cover.jpg)
+![logo](/assets/thumb_cover.svg)
 
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DHXwa6_sAAAAJ)](https://scholar.google.com/citations?user=HXwa6_sAAAAJ)
 [![](https://img.shields.io/github/stars/t3n0)](https://github.com/t3n0?tab=repositories)
@@ -6,7 +6,7 @@
 # Welcome!
 
 I'm Stefano, I study physics and like coding.
-I obtained my PhD in physics from Imperial College and I am currently a research fellow at NTU, Singapore.
+I obtained my PhD in physics from Imperial College and I am currently a research fellow at NTU, Singapore.  
 This page is currently under development, but very soon it will be all set up and running.
 
 
@@ -24,9 +24,9 @@ Page under contruction. The followings are just place holders
 </div>
 
 
-## 📚 Complete archive
+## 🗄️ Complete archive
 
-Notes, scripts and lectures in my [**contents hub**](https://github.com/t3n0/contents-hub).
+Find all notes, scripts, lectures, data and more in my [*contents hub*](https://github.com/t3n0/contents-hub).
 
 ## ☕ Support my job
 
