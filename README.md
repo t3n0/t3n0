@@ -6,22 +6,15 @@
 # Welcome!
 
 I'm Stefano, I study physics and like coding.
-I obtained my PhD in physics from Imperial College and I am currently a research fellow at NTU, Singapore.  
-This page is currently under development, but very soon it will be all set up and running.
-
+I have PhD in physics from Imperial College London.
 
 ## 🌟 Most valuable repos
 
-Page under contruction. The followings are just place holders
-
-<div align="center">
-<a href="pollo"><img src="/assets/thumb_cntt.svg" style="width: 40%;" /></a>
-<a href="pollo"><img src="/assets/thumb_cntt.svg" style="width: 40%;" /></a>
-<br>
-<a href="pollo"><img src="/assets/thumb_cntt.svg" style="width: 30%;" /></a>
-<a href="pollo"><img src="/assets/thumb_cntt.svg" style="width: 30%;" /></a>
-<a href="pollo"><img src="/assets/thumb_cntt.svg" style="width: 20%;" /></a>
-</div>
+| [![pollo](/assets/thumb_cntt.svg)](https://github.com/t3n0/cntt) | [![pollo](/assets/thumb_lectures.svg)](https://github.com/t3n0/lectures-and-notes) |
+| :---: | :---: |
+| Computes electron and exciton properties of single wall carbon nanotues. | Lectures, python notebook and exercises in computational physics. |
+| [![pollo](/assets/thumb_ballistic.svg)](https://github.com/t3n0/ballistic-transport) | [![pollo](/assets/thumb_tmm.svg)](https://github.com/t3n0/transfer-matrix-method) |
+| Ballistic diffusion of particles in 2 dimensions within user defined boundaries. | Transfer matrix method at normal incidence with 4x4 matrix formalism. |
 
 
 ## 🗄️ More contents
