@@ -22,6 +22,11 @@ Feel free to [contact me](mailto:tenobaldi@gmail.com) for suggestions, correctio
 | Ballistic diffusion of particles in 2 dimensions within user defined boundaries. | Transfer matrix method at normal incidence with 4x4 matrix formalism. |
 
 
+## 🆕 News, updates and roadmap
+
+- I have recently started to use [`uv`](https://docs.astral.sh/uv/) and it's amazing. Slowly I'll shift all my python repos to use `uv` (hopefuly, LOL).
+- This github readme works as a portfolio, but soon I will try to use github pages, to give it a nicer look.
+
 ## 🗄️ More contents
 
 Find all notes, softwares, lectures, data and more in my [**contents hub**](https://github.com/t3n0/contents-hub).
